@@ -1,0 +1,5 @@
+segment,cure_methodology,cure_horizon,lgd_methodology,minimum_lgd_level,apply_t0_collateral_index_shock,matrix_conditioner_to_use,matrix_conditioner_origination,zt_calculate_or_input,zt_sector_shock,zt_rating_shock,staging_methodology,relative_pd_threshold,absolute_pd_threshold,always_stage_2_lower_limit,always_stage_1_delta_pd_limit,always_stage_1_upper_limit,number_of_curing_buckets,subj_def_bucket,coll_index_key,time_to_sale_months,appraiser_discount,sales_haircut,avg_sales_ratio_vola,costs_to_valuation
+all,migration_matrix,4,structural,0,False,ttc,ttc,calculate,False,False,standard-SICR,1.3,10,1,0.001,0,1,False,HPI,48,0,0.25,0.18,0.05
+BL|Corporates,migration_matrix,4,structural,0,False,ttc,ttc,calculate,False,False,standard-SICR,1.3,10,1,0.001,0,1,False,HPI,48,0,0.25,0.18,0.05
+BL|Retail,migration_matrix,4,structural,0,False,ttc,ttc,calculate,False,False,standard-SICR,1.3,10,1,0.001,0,1,False,HPI,48,0,0.25,0.18,0.05
+Mortgages,migration_matrix,4,structural,0,False,ttc,ttc,calculate,False,False,standard-SICR,1.3,10,1,0.001,0,1,False,HPI,48,0,0.25,0.18,0.05

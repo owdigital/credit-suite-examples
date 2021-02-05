@@ -1,0 +1,10 @@
+risk_bucket_label,default_bucket,pd_bucket,bs_bucket,amortisation_bucket,default_no_amortisation_bucket,investment_grade_bucket,ifrs9_stage2_bucket,average_dpd
+Amortisation,0,0,0,1,0,0,0,0
+Very low risk,0,0,1,0,0,0,0,0
+Low risk,0,0,1,0,0,0,0,0
+Medium risk,0,0,1,0,0,0,0,0
+High risk,0,0,1,0,0,0,0,0
+Very high risk,0,0,1,0,0,0,1,0
+Default (0 - 12),1,1,1,0,0,0,0,180
+Default (12 - 24),1,1,1,0,1,0,0,520
+Default (24+),1,1,1,0,1,0,0,880

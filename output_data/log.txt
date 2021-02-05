@@ -1,0 +1,86 @@
+INFO:root:Output directory: /opt/ml/model/res-2021-02-05_145047
+INFO:csc.data:Reading migration matrix file DART_MM.csv
+INFO:csc.data:Reading migration matrix file DART_MM.csv
+INFO:csc.data:Reading migration matrix file DART_MM.csv
+INFO:csc.data:Reading migration matrix file DART_MM.csv
+INFO:root:Processor 2/4 for 9 facilities has started.
+INFO:root:Processor 3/4 for 8 facilities has started.
+INFO:root:Processor 4/4 for 8 facilities has started.
+INFO:root:Processor 1/4 for 9 facilities has started.
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking FACILITY CREATOR (reports each 100 iterations)
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking FACILITY CREATOR (reports each 100 iterations)
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking FACILITY CREATOR (reports each 100 iterations)
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking FACILITY CREATOR (reports each 100 iterations)
+INFO:credit_studio_core.util.util:    - Time to create the facilities: 0.0318145751953125
+INFO:credit_studio_core.util.util:    - Time to create the facilities: 0.03177642822265625
+INFO:credit_studio_core.util.util:    - Time to create the facilities: 0.03446078300476074
+INFO:credit_studio_core.util.util:    - Time to create the facilities: 0.03544878959655762
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER T0 (reports each 100 iterations)
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER T0 (reports each 100 iterations)
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER T0 (reports each 100 iterations)
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER T0 (reports each 100 iterations)
+INFO:credit_studio_core.engine.new_productions:Started creating NEW PRODUCTION...
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER (reports each 100 iterations)
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 1
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.new_productions:Started creating NEW PRODUCTION...
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER (reports each 100 iterations)
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 1
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 8
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 2
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.new_productions:Started creating NEW PRODUCTION...
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER (reports each 100 iterations)
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 1
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 8
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 2
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.new_productions:Started creating NEW PRODUCTION...
+INFO:credit_studio_core.util.basicruntimetracker:Started tracking STRESS TESTER (reports each 100 iterations)
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 1
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 8
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 3
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 9
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 2
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 8
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 3
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 9
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 2
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 9
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 3
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 8
+INFO:credit_studio_core.util.util:    - Time to run stresstest full: 0.1090238094329834
+INFO:credit_studio_core.util.util:    - Time to stress tests run: 0.23685050010681152
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 9
+INFO:credit_studio_core.engine.stresstest:Stress Test: We are in period: 3
+INFO:credit_studio_core.engine.new_productions:    - New production facilities to be added: 0
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 8
+INFO:credit_studio_core.util.util:    - Time to run stresstest full: 0.11364960670471191
+INFO:credit_studio_core.util.util:    - Time to stress tests run: 0.2542858123779297
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 9
+INFO:credit_studio_core.util.util:    - Time to run stresstest full: 0.10530948638916016
+INFO:credit_studio_core.util.util:    - Time to stress tests run: 0.26788878440856934
+INFO:credit_studio_core.engine.stresstest:    - Period run successfully!
+INFO:credit_studio_core.engine.stresstest:    - The final number of facilities is: 9
+INFO:credit_studio_core.util.util:    - Time to run stresstest full: 0.09806275367736816
+INFO:credit_studio_core.util.util:    - Time to stress tests run: 0.275252103805542
+INFO:credit_studio_core.util.util:    - Time to output_results: 0.1896677017211914

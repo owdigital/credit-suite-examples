@@ -1,0 +1,161 @@
+Full Key,Segment Key,Aggregation Key,Entity,Scenario,Metric,Rating Grade,0,1,2,3
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Amortisation,0.00000000,0.00000000,17000.49641179,26970.75150446
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Default (0 - 12),0.00000000,1493.00000008,1327.09500805,769.26269338
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Default (12 - 24),0.00000000,3572.99999997,1334.03731210,1095.87097110
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Default (24+),0.00000000,0.00000000,2486.12560343,3414.36078887
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,High risk,0.00000000,6744.00000020,5166.15617163,3414.34737980
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Implied Amortisation,0.00000000,0.00000000,4003.50057961,6650.64432741
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Low risk,0.00000000,6755.00000030,3549.47308090,1863.88183920
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Medium risk,0.00000000,9667.00000089,5292.31961309,2933.90141224
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Very high risk,0.00000000,4877.99999981,2803.83020639,1601.02304652
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Adjusted Starting Exposure,Very low risk,0.00000000,22975.76185269,13122.72786696,7371.71789095
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Default (0 - 12),6.86094289,4.04190707,1.47780272,0.37072332
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Default (12 - 24),8.41400352,5.82312161,3.04314218,0.99340684
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Default (24+),10.93572649,7.56834308,5.07031889,2.47396897
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,High risk,0.27494693,0.13239143,0.04087385,0.00799262
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Low risk,0.05160779,0.02484999,0.00767206,0.00150022
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Medium risk,0.13354508,0.06430413,0.01985293,0.00388211
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Very high risk,0.87031520,0.41907097,0.12938183,0.02529979
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL 12m,Very low risk,0.00097161,0.00046784,0.00014444,0.00002824
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Default (0 - 12),6.89676938,4.04892169,1.47799719,0.37072332
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Default (12 - 24),8.44789074,5.83051381,3.04335071,0.99340684
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Default (24+),10.93572649,7.56834308,5.07031889,2.47396897
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,High risk,0.35710143,0.15031999,0.04137962,0.00799262
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Low risk,0.07652540,0.03009371,0.00781917,0.00150022
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Medium risk,0.19115404,0.07667399,0.02020103,0.00388211
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Very high risk,1.05269982,0.45986211,0.13053671,0.02529979
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Lifetime,Very low risk,0.00379135,0.00102076,0.00015978,0.00002824
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Default (0 - 12),6.89676938,4.04892169,1.47799719,0.37072332
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Default (12 - 24),8.44789074,5.83051381,3.04335071,0.99340684
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Default (24+),10.93572649,7.56834308,5.07031889,2.47396897
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,High risk,0.35710143,0.15031999,0.04137962,0.00799262
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Low risk,0.05753693,0.02949686,0.00781917,0.00150022
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Medium risk,0.19115404,0.07667399,0.02020103,0.00388211
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Very high risk,1.05269982,0.45986211,0.13053671,0.02529979
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,ECL Vector,Very low risk,0.00097161,0.00046784,0.00014444,0.00002824
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Amortisation,0.00000000,17000.49641179,26970.75150446,32700.24207058
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Default (0 - 12),1493.00000008,1327.09500805,769.26269338,463.13849117
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Default (12 - 24),3572.99999997,1334.03731210,1095.87097110,650.79156649
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Default (24+),0.00000000,2486.12560343,3414.36078887,4176.87768765
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,High risk,6744.00000020,5166.15617163,3414.34737980,2102.73239134
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Implied Amortisation,0.00000000,4003.50057961,6650.64432741,8577.48700316
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Low risk,6755.00000030,3549.47308090,1863.88183920,957.74747414
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Medium risk,9667.00000089,5292.31961309,2933.90141224,1593.53161413
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Very high risk,4877.99999981,2803.83020639,1601.02304652,903.46617405
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Exposure,Very low risk,22975.76185269,13122.72786696,7371.71789095,3959.74738124
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Default (0 - 12),157.16378393,59.44359549,9.54552707,1.42918004
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Default (12 - 24),460.85350068,91.21609559,30.10500637,5.19589372
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Default (24+),0.00000000,220.38924256,161.64307689,80.75232123
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),High risk,34.41359531,8.36706466,1.36688695,0.19886142
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Low risk,5.45364035,1.05056301,0.15270656,0.01802692
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Medium risk,25.84640895,4.46802017,0.60752304,0.07608326
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Very high risk,74.61204092,13.62306955,1.93895035,0.26417778
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Provisions (rating grade level),Very low risk,0.50237533,0.09732685,0.01385775,0.00185406
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Default (0 - 12),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Default (12 - 24),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Default (24+),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),High risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Low risk,6607.41560480,2878.66513305,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Medium risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Very high risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Balances (rating grade level),Very low risk,22975.76185269,13122.72786696,7371.71789095,3959.74738124
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Default (0 - 12),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Default (12 - 24),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Default (24+),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),High risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Low risk,5.00676855,0.48382450,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Medium risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Very high risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 1 Provisions (rating grade level),Very low risk,0.50237533,0.09732685,0.01385775,0.00185406
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Default (0 - 12),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Default (12 - 24),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Default (24+),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),High risk,6744.00000020,5166.15617163,3414.34737980,2102.73239134
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Low risk,147.58439550,670.80794785,1863.88183920,957.74747414
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Medium risk,9667.00000089,5292.31961309,2933.90141224,1593.53161413
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Very high risk,4877.99999981,2803.83020639,1601.02304652,903.46617405
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Balances (rating grade level),Very low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Default (0 - 12),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Default (12 - 24),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Default (24+),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),High risk,34.41359531,8.36706466,1.36688695,0.19886142
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Low risk,0.44687180,0.56673850,0.15270656,0.01802692
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Medium risk,25.84640895,4.46802017,0.60752304,0.07608326
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Very high risk,74.61204092,13.62306955,1.93895035,0.26417778
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 2 Provisions (rating grade level),Very low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Default (0 - 12),1493.00000008,1327.09500805,769.26269338,463.13849117
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Default (12 - 24),3572.99999997,1334.03731210,1095.87097110,650.79156649
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Default (24+),0.00000000,2486.12560343,3414.36078887,4176.87768765
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),High risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Medium risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Very high risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Balances (rating grade level),Very low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Default (0 - 12),157.16378393,59.44359549,9.54552707,1.42918004
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Default (12 - 24),460.85350068,91.21609559,30.10500637,5.19589372
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Default (24+),0.00000000,220.38924256,161.64307689,80.75232123
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),High risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Implied Amortisation,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Medium risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Very high risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,IFRS9 - Stage 3 Provisions (rating grade level),Very low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Amortisation,0.00000000,163.97500000,91.86780282,58.48294845
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Default (0 - 12),0.00000000,263.57669368,120.77190769,81.09580690
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Default (12 - 24),0.00000000,1330.78362257,1093.90251823,649.67783209
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Default (24+),0.00000000,2486.12560343,3414.36078887,4176.87768765
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,High risk,0.00000000,482.81357182,200.23092645,135.30347778
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Implied Amortisation,0.00000000,108.09951447,111.03661965,104.95856747
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Medium risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Very high risk,0.00000000,230.62599409,115.08735988,73.09813301
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,NPE Flow,Very low risk,0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Amortisation,0.00000000,16836.52141178,26479.47364489,31922.68720296
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Default (0 - 12),0.00000000,1063.51831437,602.96802762,339.04812988
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Default (12 - 24),0.00000000,3.25368954,1.96845288,1.11371525
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Default (24+),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),High risk,0.00000000,4683.34259981,2975.28844474,1754.27222750
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Implied Amortisation,0.00000000,3895.40106515,6373.99318498,8128.09316317
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Low risk,0.00000000,3549.47308090,1862.13475144,954.50986675
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Medium risk,0.00000000,5292.31961309,2906.09800568,1557.84037731
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Very high risk,0.00000000,2573.20421229,1379.47446684,731.12888973
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (not previously defaulted),Very low risk,0.00000000,13122.72786696,7371.59087093,3959.35979693
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Amortisation,0.00000000,0.00000000,399.41005675,719.07191917
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Default (0 - 12),0.00000000,0.00000000,45.52275808,42.99455439
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Default (12 - 24),0.00000000,0.00000000,0.00000000,0.00001915
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Default (24+),0.00000000,0.00000000,0.00000000,0.00000000
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),High risk,0.00000000,0.00000000,238.82800861,213.15668606
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Implied Amortisation,0.00000000,0.00000000,165.61452279,344.43527252
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Low risk,0.00000000,0.00000000,1.74708777,3.23760739
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Medium risk,0.00000000,0.00000000,27.80340656,35.69123681
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Very high risk,0.00000000,0.00000000,106.46121980,99.23915130
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,PE Flow (previously defaulted),Very low risk,0.00000000,0.00000000,0.12702002,0.38758431
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Amortisation,0.00000000,163.97500000,491.27785957,777.55486762
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Default (0 - 12),1493.00000008,1327.09500805,769.26269338,463.13849117
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Default (12 - 24),3572.99999997,1334.03731210,1095.87097110,650.79156649
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Default (24+),0.00000000,2486.12560343,3414.36078887,4176.87768765
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,High risk,0.00000000,482.81357182,439.05893506,348.46016384
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Implied Amortisation,0.00000000,108.09951447,276.65114244,449.39383999
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Low risk,0.00000000,0.00000000,1.74708777,3.23760739
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Medium risk,0.00000000,0.00000000,27.80340656,35.69123681
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Very high risk,0.00000000,230.62599409,221.54857968,172.33728431
+,,Consumer Loans :: Fixed,ALL,Placeholder - Scenario,Previously Defaulted Exposure,Very low risk,0.00000000,0.00000000,0.12702002,0.38758431

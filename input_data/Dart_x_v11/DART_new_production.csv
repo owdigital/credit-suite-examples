@@ -1,0 +1,5 @@
+full_key,segment_param_key,aggregation_key,MM_key,geography,sector,time_since_origination,term,risk_bucket,risk_bucket_origination,EAD,bullet_share,full_prepayment_rate,partial_prepayment_rate,ltv,interest_rate,provisions
+NEW_001,"[2, 6) :: >=40 :: [80%, 120%) :: >=4.5% :: B02 :: PORTFOLIO_IO",PORTFOLIO_IO,PORTFOLIO_IO,,,-3,20,B02,B02,872289.2,0,0.01,0.01,0.911705812,0.049351075,144.662546
+NEW_002,"[2, 6) :: >=40 :: [80%, 120%) :: >=4.5% :: B03 :: PORTFOLIO_IO",PORTFOLIO_IO,PORTFOLIO_IO,,,-5,20,B03,B03,222461.9,0,0.01,0.01,0.911705812,0.049351075,10.569585
+NEW_003,"[2, 6) :: >=40 :: [80%, 120%) :: >=4.5% :: B05 :: PORTFOLIO_IO",PORTFOLIO_IO,PORTFOLIO_IO,,,-5,20,B05,B05,122000.0,0,0.01,0.01,0.911705812,0.049351075,25.484878
+NEW_004,"[2, 6) :: >=40 :: [80%, 120%) :: >=4.5% :: B09 :: PORTFOLIO_IO",PORTFOLIO_IO,PORTFOLIO_IO,,,-4,20,B09,B09,237909.0,0,0.01,0.01,0.911705812,0.049351075,3.777082

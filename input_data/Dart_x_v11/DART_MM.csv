@@ -1,0 +1,82 @@
+mm_full_key,from,to,value
+Consumer Loans,Amortisation,Amortisation,1.0
+Consumer Loans,Amortisation,Very low risk,0.0
+Consumer Loans,Amortisation,Low risk,0.0
+Consumer Loans,Amortisation,Medium risk,0.0
+Consumer Loans,Amortisation,High risk,0.0
+Consumer Loans,Amortisation,Very high risk,0.0
+Consumer Loans,Amortisation,Default (0 - 12),0.0
+Consumer Loans,Amortisation,Default (12 - 24),0.0
+Consumer Loans,Amortisation,Default (24+),0.0
+Consumer Loans,Very low risk,Amortisation,0.33
+Consumer Loans,Very low risk,Very low risk,0.63268304
+Consumer Loans,Very low risk,Low risk,0.013222382
+Consumer Loans,Very low risk,Medium risk,0.016302639
+Consumer Loans,Very low risk,High risk,0.007650325
+Consumer Loans,Very low risk,Very high risk,0.0
+Consumer Loans,Very low risk,Default (0 - 12),0.0
+Consumer Loans,Very low risk,Default (12 - 24),0.000141614
+Consumer Loans,Very low risk,Default (24+),0.0
+Consumer Loans,Low risk,Amortisation,0.33
+Consumer Loans,Low risk,Very low risk,0.040329126
+Consumer Loans,Low risk,Low risk,0.484484766
+Consumer Loans,Low risk,Medium risk,0.08998242199999999
+Consumer Loans,Low risk,High risk,0.042089179000000004
+Consumer Loans,Low risk,Very high risk,0.0055925390000000005
+Consumer Loans,Low risk,Default (0 - 12),0.007521968
+Consumer Loans,Low risk,Default (12 - 24),0.0
+Consumer Loans,Low risk,Default (24+),0.0
+Consumer Loans,Medium risk,Amortisation,0.33
+Consumer Loans,Medium risk,Very low risk,0.006315368000000001
+Consumer Loans,Medium risk,Low risk,0.041822646
+Consumer Loans,Medium risk,Medium risk,0.46970369700000003
+Consumer Loans,Medium risk,High risk,0.090342774
+Consumer Loans,Medium risk,Very high risk,0.042350978
+Consumer Loans,Medium risk,Default (0 - 12),0.019464537
+Consumer Loans,Medium risk,Default (12 - 24),0.0
+Consumer Loans,Medium risk,Default (24+),0.0
+Consumer Loans,High risk,Amortisation,0.33
+Consumer Loans,High risk,Very low risk,0.000301275
+Consumer Loans,High risk,Low risk,0.004093877
+Consumer Loans,High risk,Medium risk,0.063268523
+Consumer Loans,High risk,High risk,0.52754256
+Consumer Loans,High risk,Very high risk,0.034719545
+Consumer Loans,High risk,Default (0 - 12),0.04007422
+Consumer Loans,High risk,Default (12 - 24),0.0
+Consumer Loans,High risk,Default (24+),0.0
+Consumer Loans,Very high risk,Amortisation,0.33
+Consumer Loans,Very high risk,Very low risk,0.0
+Consumer Loans,Very high risk,Low risk,0.00010465
+Consumer Loans,Very high risk,Medium risk,0.00560542
+Consumer Loans,Very high risk,High risk,0.081492206
+Consumer Loans,Very high risk,Very high risk,0.45594705399999996
+Consumer Loans,Very high risk,Default (0 - 12),0.12685067
+Consumer Loans,Very high risk,Default (12 - 24),0.0
+Consumer Loans,Very high risk,Default (24+),0.0
+Consumer Loans,Default (0 - 12),Amortisation,0.05
+Consumer Loans,Default (0 - 12),Very low risk,0.0
+Consumer Loans,Default (0 - 12),Low risk,0.0
+Consumer Loans,Default (0 - 12),Medium risk,0.0
+Consumer Loans,Default (0 - 12),High risk,0.065126748
+Consumer Loans,Default (0 - 12),Very high risk,0.060680677999999995
+Consumer Loans,Default (0 - 12),Default (0 - 12),0.04848191599999999
+Consumer Loans,Default (0 - 12),Default (12 - 24),0.7757106579999999
+Consumer Loans,Default (0 - 12),Default (24+),0.0
+Consumer Loans,Default (12 - 24),Amortisation,0.025
+Consumer Loans,Default (12 - 24),Very low risk,0.0
+Consumer Loans,Default (12 - 24),Low risk,0.0
+Consumer Loans,Default (12 - 24),Medium risk,0.0
+Consumer Loans,Default (12 - 24),High risk,0.125361795
+Consumer Loans,Default (12 - 24),Very high risk,0.047525038
+Consumer Loans,Default (12 - 24),Default (0 - 12),0.057984084000000005
+Consumer Loans,Default (12 - 24),Default (12 - 24),0.04832007
+Consumer Loans,Default (12 - 24),Default (24+),0.695809013
+Consumer Loans,Default (24+),Amortisation,0.0
+Consumer Loans,Default (24+),Very low risk,0.0
+Consumer Loans,Default (24+),Low risk,0.0
+Consumer Loans,Default (24+),Medium risk,0.0
+Consumer Loans,Default (24+),High risk,0.0
+Consumer Loans,Default (24+),Very high risk,0.0
+Consumer Loans,Default (24+),Default (0 - 12),0.0
+Consumer Loans,Default (24+),Default (12 - 24),0.0
+Consumer Loans,Default (24+),Default (24+),1.0

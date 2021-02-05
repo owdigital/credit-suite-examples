@@ -1,0 +1,73 @@
+macro_variable,scenario,date,value
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2015,0
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2016,0.01
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2017,0.02
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2018,0.03
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2019,0.04
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2020,0.05
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2021,0.06
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2022,0.07
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2023,0.08
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2024,0.09
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2025,0.1
+GDP_YOY_increase|EU,Placeholder - Scenario,31/12/2026,0.11
+GDP_YOY_increase|EU,Adverse,31/12/2015,0
+GDP_YOY_increase|EU,Adverse,31/12/2016,-0.02
+GDP_YOY_increase|EU,Adverse,31/12/2017,-0.04
+GDP_YOY_increase|EU,Adverse,31/12/2018,-0.06
+GDP_YOY_increase|EU,Adverse,31/12/2019,-0.08
+GDP_YOY_increase|EU,Adverse,31/12/2020,-0.1
+GDP_YOY_increase|EU,Adverse,31/12/2021,-0.12
+GDP_YOY_increase|EU,Adverse,31/12/2022,-0.14
+GDP_YOY_increase|EU,Adverse,31/12/2023,-0.16
+GDP_YOY_increase|EU,Adverse,31/12/2024,-0.18
+GDP_YOY_increase|EU,Adverse,31/12/2025,-0.2
+GDP_YOY_increase|EU,Adverse,31/12/2026,-0.22
+HPI|EU,Placeholder - Scenario,31/12/2015,1
+HPI|EU,Placeholder - Scenario,31/12/2016,1.24
+HPI|EU,Placeholder - Scenario,31/12/2017,1.48
+HPI|EU,Placeholder - Scenario,31/12/2018,1.72
+HPI|EU,Placeholder - Scenario,31/12/2019,1.96
+HPI|EU,Placeholder - Scenario,31/12/2020,2.2
+HPI|EU,Placeholder - Scenario,31/12/2021,2.44
+HPI|EU,Placeholder - Scenario,31/12/2022,2.68
+HPI|EU,Placeholder - Scenario,31/12/2023,2.92
+HPI|EU,Placeholder - Scenario,31/12/2024,3.16
+HPI|EU,Placeholder - Scenario,31/12/2025,3.4
+HPI|EU,Placeholder - Scenario,31/12/2026,3.64
+HPI|EU,Adverse,31/12/2015,1
+HPI|EU,Adverse,31/12/2016,1.06
+HPI|EU,Adverse,31/12/2017,1.12
+HPI|EU,Adverse,31/12/2018,1.18
+HPI|EU,Adverse,31/12/2019,1.24
+HPI|EU,Adverse,31/12/2020,1.3
+HPI|EU,Adverse,31/12/2021,1.36
+HPI|EU,Adverse,31/12/2022,1.42
+HPI|EU,Adverse,31/12/2023,1.48
+HPI|EU,Adverse,31/12/2024,1.54
+HPI|EU,Adverse,31/12/2025,1.6
+HPI|EU,Adverse,31/12/2026,1.66
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2015,0.75
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2016,0.76
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2017,0.77
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2018,0.78
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2019,0.79
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2020,0.8
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2021,0.81
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2022,0.82
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2023,0.83
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2024,0.84
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2025,0.85
+zt|Consumer Loans|EU,Placeholder - Scenario,31/12/2026,0.86
+zt|Consumer Loans|EU,Adverse,31/12/2015,1.125
+zt|Consumer Loans|EU,Adverse,31/12/2016,1.14
+zt|Consumer Loans|EU,Adverse,31/12/2017,1.155
+zt|Consumer Loans|EU,Adverse,31/12/2018,1.17
+zt|Consumer Loans|EU,Adverse,31/12/2019,1.185
+zt|Consumer Loans|EU,Adverse,31/12/2020,1.2
+zt|Consumer Loans|EU,Adverse,31/12/2021,1.215
+zt|Consumer Loans|EU,Adverse,31/12/2022,1.23
+zt|Consumer Loans|EU,Adverse,31/12/2023,1.245
+zt|Consumer Loans|EU,Adverse,31/12/2024,1.26
+zt|Consumer Loans|EU,Adverse,31/12/2025,1.275
+zt|Consumer Loans|EU,Adverse,31/12/2026,1.29

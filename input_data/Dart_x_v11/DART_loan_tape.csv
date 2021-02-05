@@ -1,0 +1,35 @@
+full_key,segment_param_key,aggregation_key,MM_key,geography,sector,time_since_origination,term,risk_bucket,risk_bucket_origination,EAD,bullet_share,full_prepayment_rate,partial_prepayment_rate,ltv,interest_rate,provisions
+F000,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Low risk,Low risk,2535.510268,0.5,0.01,0.01,0.45,0.049351075,5.776081488
+F001,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Medium risk,Low risk,3628.538529,0.5,0.01,0.01,0.45,0.049351075,8.266081384
+F002,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,High risk,Low risk,2531.381384,0.5,0.01,0.01,0.45,0.049351075,5.766675582
+F003,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Very high risk,Low risk,1830.972478,0.5,0.01,0.01,0.45,0.049351075,4.171091858
+F004,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Default (0 - 12),Low risk,560.4021955,0.5,0.01,0.01,0.45,0.049351075,1.276637996
+F005,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Default (12 - 24),Low risk,1341.136667,0.5,0.01,0.01,0.45,0.049351075,900
+F006,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Very low risk,Low risk,16141.12769,0.5,0.01,0.01,0.7,0.049351075,110.312078
+F007,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Low risk,Low risk,2964.311825,0.5,0.01,0.01,0.7,0.049351075,20.25877024
+F008,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Medium risk,Low risk,4242.191327,0.5,0.01,0.01,0.7,0.049351075,28.99208467
+F009,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,High risk,Low risk,2959.48467,0.5,0.01,0.01,0.7,0.049351075,20.22578039
+F010,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Very high risk,Low risk,2140.623698,0.5,0.01,0.01,0.7,0.049351075,14.6295013
+F011,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Default (0 - 12),Low risk,655.176544,0.5,0.01,0.01,0.7,0.049351075,4.47762309
+F012,Consumer Loans :: Low risk :: 1,Consumer Loans :: Fixed,Consumer Loans,EU,,1,5,Default (12 - 24),Low risk,1567.947617,0.5,0.01,0.01,0.7,0.049351075,1000
+F013,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Very low risk,Low risk,5937.989034,0.5,0.01,0.01,0.9,0.049351075,54.1087275
+F014,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Low risk,Low risk,1090.509378,0.5,0.01,0.01,0.9,0.049351075,9.937046768
+F015,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Medium risk,Low risk,1560.614975,0.5,0.01,0.01,0.9,0.049351075,14.22078921
+F016,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,High risk,Low risk,1088.733567,0.5,0.01,0.01,0.9,0.049351075,9.920865049
+F017,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Very high risk,Low risk,787.4914499,0.5,0.01,0.01,0.9,0.049351075,7.175857015
+F018,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Default (0 - 12),Low risk,241.0259809,0.5,0.01,0.01,0.9,0.049351075,2.19630064
+F019,Consumer Loans :: Low risk :: 2,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Default (12 - 24),Low risk,576.815693,0.5,0.01,0.01,0.9,0.049351075,350
+F020,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,Very low risk,Low risk,803.6194278,0.5,0.01,0.01,1.1,0.049351075,9.153524951
+F021,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,Low risk,Low risk,147.5843955,0.5,0.01,0.01,1.1,0.049351075,1.681041299
+F022,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,Medium risk,Low risk,211.2062696,0.5,0.01,0.01,1.1,0.049351075,2.405718169
+F023,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,High risk,Low risk,147.3440656,0.5,0.01,0.01,1.1,0.049351075,1.678303852
+F024,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,Very high risk,Low risk,106.5753784,0.5,0.01,0.01,1.1,0.049351075,1.213933302
+F025,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,Default (0 - 12),Low risk,32.61931939,0.5,0.01,0.01,1.1,0.049351075,0.371546212
+F026,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,3,5,Default (12 - 24),Low risk,78.06351519,0.5,0.01,0.01,1.1,0.049351075,46.5890366
+F027,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Very low risk,Low risk,93.02570089,0.5,0.01,0.01,1.25,0.049351075,1.271516907
+F028,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Low risk,Low risk,17.0841338,0.5,0.01,0.01,1.25,0.049351075,0.233513586
+F029,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Medium risk,Low risk,24.44890029,0.5,0.01,0.01,1.25,0.049351075,0.33417851
+F030,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,High risk,Low risk,17.0563136,0.5,0.01,0.01,1.25,0.049351075,0.233133327
+F031,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Very high risk,Low risk,12.33699551,0.5,0.01,0.01,1.25,0.049351075,0.168627575
+F032,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Default (0 - 12),Low risk,3.775960291,0.5,0.01,0.01,1.25,0.049351075,0.051611515
+F033,Consumer Loans :: Low risk :: 3,Consumer Loans :: Fixed,Consumer Loans,EU,,2,5,Default (12 - 24),Low risk,9.036507783,0.5,0.01,0.01,1.25,0.049351075,6.471686921
